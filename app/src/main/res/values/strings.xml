@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Jet Game</string>
+    <string name="results_format">Shots fired: %1$d\nKills: %2$d\nRemaining: %3$d\nScore: %4$d\nTotal time: %5$.1f</string>
+    <string name="reset_game">Reset Game</string>
+    <string name="win">You win!</string>
+    <string name="lose">Game Over!</string>
+    <string name="time_remaining_format">Time remaining: %.1f seconds</string>
+
+</resources>
